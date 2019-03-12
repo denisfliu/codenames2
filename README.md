@@ -1,2 +1,2 @@
-# codenames2
-same as original codenames except with more ai
+# References
+- T. Mikolov, E. Grave, P. Bojanowski, C. Puhrsch, A. Joulin. *Advances in Pre-Training Distributed Word Representations*
